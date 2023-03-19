@@ -10,6 +10,6 @@ E aqui você vai encontrar alguns repositórios dos meus projetos em Pyhton, HTM
 ## :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dudubfjj&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dudubfjj&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eborgesfreitas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=eborgesfreitas&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
