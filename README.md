@@ -1,7 +1,22 @@
 ### Olá, me chamo Eduardo Borges Freitas 👋
 
-<div> Graduado faixa preta de jiu-jítsu brasileiro desde 2017 (registro IBJJF 28659), tenho ensinado desde então essa arte marcial para pessoas de todas as idades e habilidades. Como professor, desenvolvi capacidades de comunicação e trabalho em equipe além de ver meus alunos crescerem em confiança e respeito pela disciplina. No entanto, recentemente, decidi mudar de carreira e iniciar um novo percurso na minha vida profissional, atuando como desenvolvedor de software.<br>
-Embora seja uma transição de áreas distintas, ambas as carreiras exigem nível elevado de atenção aos detalhes, mentalidade de resolução de problemas e capacidade de adaptar-se rapidamente. Além disso, assim como no jiu-jítsu, a aprendizagem e a prática constantes são fundamentais para o sucesso no desenvolvimento de software.</div>
+<div> Analista de Dados e Professor de Jiu-Jitsu
+
+🌟 Experiência com a Arte Suave: Como faixa preta de jiu-jítsu brasileiro desde 2017 (registro IBJJF 28659), dediquei minha carreira ao ensino dessa arte marcial, compartilhando conhecimento e paixão com alunos de todas as idades e níveis. Durante essa jornada, desenvolvi habilidades de liderança, comunicação e trabalho em equipe, fundamentais para qualquer área profissional.
+
+📈 Experiência Profissional: Como estagiário na Equinix Brasil, atuei em Serviços Gerenciados e Governança de TI, ganhando experiência prática e aprimorando habilidades técnicas. Contribuí para a gestão de demandas internas, solução de incidentes no portal do cliente, onboardings de produtos e suporte técnico em ServiceNow. Além disso, colaborei no time global de Governança, apoiando processos como Major Incident, CMDB e Implementation.
+
+💻 Habilidades Técnicas:
+
+- Python
+- Microsoft Excel
+- SQL
+- Power BI
+- HTML, CSS
+- Git/GitHub
+
+📂 Portfólios:
+medium.com/@eborgesfreitas.</div>
 
 #### E aqui você vai encontrar alguns repositórios dos meus projetos em Pyhton, HTML e CSS.
 <div style="display: inline_block"><br>
