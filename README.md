@@ -29,6 +29,7 @@ Códigos e soluções: github.com/eborgesfreitas
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://www.eia.ai/content-assets/public/eyJhbGciOiJIUzI1NiJ9.eyJvYmplY3Rfa2V5IjoiaWl1M2hiOXJ2cXV5ajRpYXpjejhyaGl2ZGRkciIsImRvbWFpbiI6Ind3dy5laWEuYWkifQ.qJsoAnnPzcXuempOPv7mrroB9RxHJvFO5Yh8ZfJtSr4">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png">
 </div>
 
 ## :chart_with_upwards_trend: Minhas estatísticas
