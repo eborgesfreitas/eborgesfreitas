@@ -1,4 +1,4 @@
-### Olá, Meu nome é Eduardo Borges Freitas, sou formado em Análise e Desenvolvimento de Sistemas, com experiência prática em análise de dados, visualização e desenvolvimento de soluções analíticas. 👋
+### Olá, meu nome é Eduardo Borges Freitas, sou formado em Análise e Desenvolvimento de Sistemas, com experiência prática em análise de dados, visualização e desenvolvimento de soluções analíticas. 👋
 
 <div> Analista de Dados
 
