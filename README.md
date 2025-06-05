@@ -1,11 +1,11 @@
-###  👋 Sobre mim
+###  👋 Olá! Sou Eduardo Borges Freitas, 
 
 <div>
-Olá! Sou Eduardo Borges Freitas, formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em soluções inteligentes. Tenho experiência prática com análise de dados, visualização e desenvolvimento de soluções analíticas voltadas para a tomada de decisão.
+Formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em soluções inteligentes. Tenho experiência prática com análise de dados, visualização e desenvolvimento de soluções analíticas voltadas para a tomada de decisão.
 
 Atuei na Equinix, onde participei de times globais de Serviços Gerenciados e Governança, trabalhando com análise de métricas, KPIs, otimização de processos e suporte técnico utilizando plataformas como ServiceNow.
 
-🧠 Principais habilidades
+##### 🧠 Principais habilidades
 Python: automação de análises, tratamento de dados e construção de soluções analíticas.
 
 SQL: extração e manipulação eficiente de dados em bancos relacionais.
@@ -16,7 +16,7 @@ Excel: fórmulas avançadas, tabelas dinâmicas e automações.
 
 Git & GitHub: versionamento, organização e colaboração em projetos.
 
-📁 Portfólio
+##### 📁 Portfólio
 Projetos e artigos: medium.com/@eborgesfreitas
 
 Códigos e soluções: github.com/eborgesfreitas
