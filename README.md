@@ -1,22 +1,29 @@
-### Olá, me chamo Eduardo Borges Freitas 👋
+### Olá, Meu nome é Eduardo Borges Freitas, sou formado em Análise e Desenvolvimento de Sistemas, com experiência prática em análise de dados, visualização e desenvolvimento de soluções analíticas. 👋
 
-<div> Analista de Dados e Professor de Jiu-Jitsu
+<div> Analista de Dados
 
-🌟 Experiência com a Arte Suave: Como faixa preta de jiu-jítsu brasileiro desde 2017 (registro IBJJF 28659), dediquei minha carreira ao ensino dessa arte marcial, compartilhando conhecimento e paixão com alunos de todas as idades e níveis. Durante essa jornada, desenvolvi habilidades de liderança, comunicação e trabalho em equipe, fundamentais para qualquer área profissional.
+Experiência Profissional: Na Equinix, atuei na área de Serviços Gerenciados, onde desenvolvi habilidades técnicas e operacionais em um ambiente dinâmico e global. Minhas responsabilidades incluíram a gestão de demandas internas, resolução de incidentes via portal do cliente, onboarding de novos produtos e suporte técnico utilizando a plataforma ServiceNow.
 
-📈 Experiência Profissional: Como estagiário na Equinix Brasil, atuei em Serviços Gerenciados e Governança de TI, ganhando experiência prática e aprimorando habilidades técnicas. Contribuí para a gestão de demandas internas, solução de incidentes no portal do cliente, onboardings de produtos e suporte técnico em ServiceNow. Além disso, colaborei no time global de Governança, apoiando processos como Major Incident, CMDB e Implementation.
+Também tive a oportunidade de colaborar com o time global de Governança, apoiando processos críticos como Major Incident, CMDB e Implementation. Nesse contexto, atuei na análise de métricas e KPIs, contribuindo para a otimização de processos e promovendo iniciativas de melhoria contínua em escala global.
 
-💻 Habilidades Técnicas:
+Habilidades Técnicas:
+Mais do que conhecer ferramentas, acredito no uso estratégico de cada uma para transformar dados em decisões inteligentes e resultados concretos.
 
-- Python
-- Microsoft Excel
-- SQL
-- Power BI
-- HTML, CSS
-- Git/GitHub
+Python: para análises automatizadas, tratamento de dados e criação de soluções personalizadas.
 
-📂 Portfólios:
-medium.com/@eborgesfreitas.</div>
+SQL: para extração, manipulação e cruzamento eficiente de dados em bancos relacionais.
+
+Power BI: para criação de dashboards interativos que traduzem dados em insights visuais.
+
+Microsoft Excel: uso de fórmulas complexas, tabelas dinâmicas e automações para análise ágil.
+
+Git e GitHub: para versionamento, colaboração em projetos e organização de código.
+
+Portfólios:
+medium.com/@eborgesfreitas
+github.com/eborgesfreitas
+
+📩 Contato: bfreitas.edu@gmail.com</div>
 
 #### E aqui você vai encontrar alguns repositórios dos meus projetos em Pyhton, HTML e CSS.
 <div style="display: inline_block"><br>
