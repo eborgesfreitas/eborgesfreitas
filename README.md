@@ -21,9 +21,9 @@ Projetos e artigos: medium.com/@eborgesfreitas
 
 Códigos e soluções: github.com/eborgesfreitas
 
-Aqui você vai encontrar projetos com foco em Python, HTML/CSS, além de dashboards em Power BI e análises orientadas a dados.</div>
+</div>
 
-#### E aqui você vai encontrar alguns repositórios dos meus projetos em Pyhton, HTML e CSS.
+#### Aqui você vai encontrar projetos com foco em Python, SQL, HTML/CSS, além de dashboards em Power BI e análises orientadas a dados.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
