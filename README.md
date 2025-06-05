@@ -1,4 +1,4 @@
-###  👋 Olá! Sou Eduardo Borges Freitas, 
+###  👋 Olá! Sou Eduardo Borges Freitas
 
 <div>
 Formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em soluções inteligentes. Tenho experiência prática com análise de dados, visualização e desenvolvimento de soluções analíticas voltadas para a tomada de decisão.
@@ -32,7 +32,7 @@ Códigos e soluções: github.com/eborgesfreitas
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png">
 </div>
 
-## :chart_with_upwards_trend: Minhas estatísticas
+### :chart_with_upwards_trend: Minhas estatísticas
 
  <div align='center'>
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=eborgesfreitas&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
