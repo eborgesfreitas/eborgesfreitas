@@ -1,29 +1,27 @@
-### Olá, meu nome é Eduardo Borges Freitas, sou formado em Análise e Desenvolvimento de Sistemas, com experiência prática em análise de dados, visualização e desenvolvimento de soluções analíticas. 👋
+###  👋 Sobre mim
 
-<div> Analista de Dados
+<div>
+Olá! Sou Eduardo Borges Freitas, formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em soluções inteligentes. Tenho experiência prática com análise de dados, visualização e desenvolvimento de soluções analíticas voltadas para a tomada de decisão.
 
-Experiência Profissional: Na Equinix, atuei na área de Serviços Gerenciados, onde desenvolvi habilidades técnicas e operacionais em um ambiente dinâmico e global. Minhas responsabilidades incluíram a gestão de demandas internas, resolução de incidentes via portal do cliente, onboarding de novos produtos e suporte técnico utilizando a plataforma ServiceNow.
+Atuei na Equinix, onde participei de times globais de Serviços Gerenciados e Governança, trabalhando com análise de métricas, KPIs, otimização de processos e suporte técnico utilizando plataformas como ServiceNow.
 
-Também tive a oportunidade de colaborar com o time global de Governança, apoiando processos críticos como Major Incident, CMDB e Implementation. Nesse contexto, atuei na análise de métricas e KPIs, contribuindo para a otimização de processos e promovendo iniciativas de melhoria contínua em escala global.
+🧠 Principais habilidades
+Python: automação de análises, tratamento de dados e construção de soluções analíticas.
 
-Habilidades Técnicas:
-Mais do que conhecer ferramentas, acredito no uso estratégico de cada uma para transformar dados em decisões inteligentes e resultados concretos.
+SQL: extração e manipulação eficiente de dados em bancos relacionais.
 
-Python: para análises automatizadas, tratamento de dados e criação de soluções personalizadas.
+Power BI: dashboards interativos com foco em insights visuais e estratégicos.
 
-SQL: para extração, manipulação e cruzamento eficiente de dados em bancos relacionais.
+Excel: fórmulas avançadas, tabelas dinâmicas e automações.
 
-Power BI: para criação de dashboards interativos que traduzem dados em insights visuais.
+Git & GitHub: versionamento, organização e colaboração em projetos.
 
-Microsoft Excel: uso de fórmulas complexas, tabelas dinâmicas e automações para análise ágil.
+📁 Portfólio
+Projetos e artigos: medium.com/@eborgesfreitas
 
-Git e GitHub: para versionamento, colaboração em projetos e organização de código.
+Códigos e soluções: github.com/eborgesfreitas
 
-Portfólios:
-medium.com/@eborgesfreitas
-github.com/eborgesfreitas
-
-📩 Contato: bfreitas.edu@gmail.com</div>
+Aqui você vai encontrar projetos com foco em Python, HTML/CSS, além de dashboards em Power BI e análises orientadas a dados.</div>
 
 #### E aqui você vai encontrar alguns repositórios dos meus projetos em Pyhton, HTML e CSS.
 <div style="display: inline_block"><br>
